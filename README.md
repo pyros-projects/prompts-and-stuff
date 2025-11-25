@@ -23,7 +23,7 @@ Some things here are useful. Some are just fun. Most are accidents that turned o
 ## 📦 Contents
 
 ### 🔥 Pyro-Style Writing System
-**File:** [`pyro-style.md`](./prompts/pyro-style.md)
+**File:** [`./prompts/pyro-style.md`](./prompts/pyro-style.md)
 
 A 5-dimensional creative writing control system. Think of it as a mixing board for prose:
 
