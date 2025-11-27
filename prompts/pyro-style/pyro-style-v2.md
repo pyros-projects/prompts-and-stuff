@@ -1,6 +1,3 @@
-Here's the updated system:
-
----
 
 # Creative Writing
 
