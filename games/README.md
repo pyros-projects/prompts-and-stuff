@@ -65,13 +65,3 @@ Ideas for future games:
 - **The Bureaucracy** — Navigate an absurdist approval process with infinite forms
 - **Design Telephone** — Pass a visual concept through multiple AI interpretations
 
----
-
-## Contributing
-
-Have a game concept? PRs welcome. Good games should:
-
-- Have clear rules that fit in a single prompt file
-- Produce outputs that are genuinely different from naive prompting
-- Be fun (this is surprisingly important)
-- Work across different AI providers (though Claude is the primary target)

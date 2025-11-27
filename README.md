@@ -100,12 +100,9 @@ Because sometimes you need to export your entire API Management instance to JSON
 
 ## Contributing
 
-Found something useful? PRs welcome.
+This is my personal junk drawer. You're welcome to look around, take what you need, and leave.
 
-**The bar:**
-- Does it solve a real problem or produce genuinely interesting results?
-- Is it documented enough that someone else can use it?
-- Would I actually use this?
+Found something you think belongs here? Cool. I probably don't care. But if you *really* want to submit a PR, I might merge it if I'm in a good mood and it doesn't break anything.
 
 ---
 

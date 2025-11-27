@@ -36,15 +36,3 @@ scripts/
 - **Interactive AND automated** — Explore with prompts, script with flags
 - **Documented for future-me** — Who will have forgotten everything in 3 months
 
----
-
-## Contributing
-
-Have a useful script? PRs welcome.
-
-**Guidelines:**
-- Scripts should be self-contained with clear documentation
-- Include installation instructions for dependencies
-- Provide both interactive and command-line modes where applicable
-- Handle errors gracefully
-- Comment your code (future-you will thank present-you)

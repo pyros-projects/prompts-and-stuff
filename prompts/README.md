@@ -100,14 +100,3 @@ Pyro-Style codes are *specifications*. Each digit controls a specific aspect of 
 
 **The key insight:** Explicit beats implicit. If you can name the dimension, you can control it.
 
----
-
-## Contributing
-
-Have a new author code? Found an interesting style combination? PRs welcome.
-
-Good contributions:
-- New author codes with reasoning
-- Edge cases that produce surprising results
-- Extended dimensions that maintain orthogonality (don't overlap with existing ones)
-- Example outputs demonstrating the system's range
